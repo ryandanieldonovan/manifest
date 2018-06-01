@@ -13,7 +13,7 @@
            revision="refs/heads/8.1.x" />
 
   <remote  name="aex-devices"
-           fetch="https://github.com/AospExtended-Devices" 
+           fetch="https://github.com/ryandanieldonovan" 
            revision="refs/heads/8.1.x" />
 
   <remote  name="los"
