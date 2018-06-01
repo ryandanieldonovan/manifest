@@ -14,7 +14,7 @@
 
   <remote  name="aex-devices"
            fetch="https://github.com/ryandanieldonovan" 
-           revision="refs/heads/8.1.x" />
+           revision="LiquidRemix" />
 
   <remote  name="los"
            fetch="https://github.com/LineageOS" 
